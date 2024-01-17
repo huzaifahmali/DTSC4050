@@ -1,2 +1,2 @@
 # DTSC4050
-Repository for Class
+Repository for DTSC4050
